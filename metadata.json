@@ -1,0 +1,6 @@
+{
+  "name": "المصادق الآمن",
+  "description": "تطبيق مصادقة آمن لتوليد رموز TOTP الثنائية (2FA) متكامل بالكامل وموفر للحماية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
